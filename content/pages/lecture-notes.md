@@ -103,7 +103,7 @@ Molecular spectroscopy (S)
 Equation of radiative transfer (M)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/radiative_transf))
+([PDF]({{< baseurl >}}/resources/radiative_transf))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -128,7 +128,7 @@ Equation of radiative transfer (M)
 Modeling atmospheric transmission and emission (M)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/atmos_trans_emis))
+([PDF]({{< baseurl >}}/resources/atmos_trans_emis))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -163,7 +163,7 @@ Multiple scattering (M)
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/scattering))
+([PDF]({{< baseurl >}}/resources/scattering))
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -190,7 +190,7 @@ Multiple scattering (M)
 Remote sensing (M)
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/remote_sensing))
+([PDF]({{< baseurl >}}/resources/remote_sensing))
 {{< tdclose >}}
 {{< tdopen >}}
 
