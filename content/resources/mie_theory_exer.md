@@ -6,6 +6,7 @@ description: Assignment on using the Mie scattering program. The Mie scattering 
   routines.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-815-atmospheric-radiation-fall-2008/53b017a8fc58a5dcdb67eebc7fdb9620_mie_theory_exer.pdf
 file_type: application/pdf
+parent_uid: d96c2c78-aa10-b090-6938-b09cc955af71
 resourcetype: Document
 title: "Mie Theory \u2013 Computer Exercise"
 uid: 53b017a8-fc58-a5dc-db67-eebc7fdb9620

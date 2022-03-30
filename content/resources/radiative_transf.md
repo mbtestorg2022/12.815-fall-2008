@@ -4,6 +4,7 @@ description: Lecture notes on the equation of radiative transfer, derivation, sp
   cases, and fluxes and simple solutions - radiative equilibrium approximation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-815-atmospheric-radiation-fall-2008/c397bb57973e36cc3f5e55091a1449b6_radiative_transf.pdf
 file_type: application/pdf
+parent_uid: afeba595-7578-fa57-071d-89c2efc4369c
 resourcetype: Document
 title: Equation of Radiative Transfer
 uid: c397bb57-973e-36cc-3f5e-55091a1449b6

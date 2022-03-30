@@ -7,6 +7,7 @@ description: Lecture notes on remote sensing, scattered sunlight (observations f
   and summary (microwave remote sensing, active remote sensing - LIDAR and RADAR).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-815-atmospheric-radiation-fall-2008/6ab3fdafb938649ca5a6aac43a52b75d_remote_sensing.pdf
 file_type: application/pdf
+parent_uid: afeba595-7578-fa57-071d-89c2efc4369c
 resourcetype: Document
 title: Remote Sensing
 uid: 6ab3fdaf-b938-649c-a5a6-aac43a52b75d

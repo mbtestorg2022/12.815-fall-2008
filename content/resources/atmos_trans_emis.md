@@ -5,6 +5,7 @@ description: Lecture notes on modeling atmospheric transmission and emission, th
   regular, k Distribution), and MODTRAN.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-815-atmospheric-radiation-fall-2008/cca31e9957d40ba70c164216c44bc309_atmos_trans_emis.pdf
 file_type: application/pdf
+parent_uid: afeba595-7578-fa57-071d-89c2efc4369c
 resourcetype: Document
 title: Modeling Atmospheric Transmission and Emission
 uid: cca31e99-57d4-0ba7-0c16-4216c44bc309
